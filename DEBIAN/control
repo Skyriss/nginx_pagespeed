@@ -1,0 +1,8 @@
+Package: nginx-pagespeed
+Version: 1.0-1
+Provides: httpd
+Maintainer: Alex Glazkov <alex.farstone@gmail.com>
+Architecture: amd64
+Section: web
+Description: NGinx with pagespeed module
+Depends: bash

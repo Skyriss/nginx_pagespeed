@@ -1,0 +1,5 @@
+/usr/lib/nginx/modules
+/usr/sbin
+/var/log
+/var/www/html
+/etc/nginx
